@@ -11,3 +11,19 @@ Esto fue cambiado en github
 
 ###A dejar la crema
 ## cambios nuevos y más cosas
+
+![Github.logo](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+* a
+* b
+* c
+* d
+  * 1
+  * 2
+  * 3
